@@ -1,0 +1,19 @@
+﻿  Test.cpp
+c:\users\admin\source\repos\test\test\test.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(135): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(169): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(199): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(233): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(263): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(265): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(270): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(273): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\test\test\test.cpp(289): warning C4018: <: несоответствие типов со знаком и без знака
+  Test.vcxproj -> C:\Users\Admin\source\repos\Test\Debug\Test.exe
